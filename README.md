@@ -20,3 +20,5 @@ Then you can creat an object request to callback 2 functions.(success and failur
 
 # Attention
 You should write your own callback functions. In my JS file is empty. you can write it in component or just in this JS file.
+
+There are 3 files.The Third one privide you use it in asynchronous way.（use ES6 promise）
