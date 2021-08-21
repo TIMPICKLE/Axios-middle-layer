@@ -8,9 +8,13 @@ Realization process: Pack the network data exchange layer in the project. Using 
 
 # How to use 
 you will see 3 Parameters: config, success, failure. And "success" and "failure" are functions.
+
 first put the file in your "src" static directory.(if you use Vue cli 3.0)
+
 First, when you use this supreme class, some basical property will be created, you can change it.
+
 Second, import this JS file in you Component.
+
 Then you can creat an object request to callback 2 functions.(success and failure)
 
 
